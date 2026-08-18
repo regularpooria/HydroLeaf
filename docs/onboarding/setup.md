@@ -4,7 +4,7 @@ We have 2 different methods of developing the code for this project
 
 ## Method 1: Repo level development
 
-We use **GitHub Codespaces** to maintain a consistent development environment across the team. Docker handles all dependency installation automatically — you just need a browser to run VS Code on the web. No local setup required.
+We use **GitHub Codespaces** to maintain a consistent development environment across the team. Docker handles all dependency installation automatically (it runs in the browser)
 
 ### If you have collaborator access
 

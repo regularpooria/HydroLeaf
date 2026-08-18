@@ -61,7 +61,7 @@ Stage 1: Dataset Generation & Model Training
 
 ## Related Works (Previous Research)
 
-It is important to research other papers before getting started on this project. Please take a look at [previous_research.md](./related_works.md) for a better context on what has been done before.
+It is important to research other papers before getting started on this project. Please take a look at [related_works.md](./related_works.md) for a better context on what has been done before.
 
 ## okay, how do i navigate the github?
 
