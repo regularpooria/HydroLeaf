@@ -4,7 +4,7 @@ This file gives coding agents a fast path to the correct working area.
 
 ## Primary targets
 
-- `/docs/onbaording/repo.md`: canonical human-oriented structure overview.
+- `/docs/onboarding/repo.md`: canonical human-oriented structure overview.
 - `/docs/segmentation/`, `/docs/tracking/`, `/docs/deployment/`: domain docs.
 - `/src/segementation/`: segmentation code.
 - `/src/tracking/`: tracking code.

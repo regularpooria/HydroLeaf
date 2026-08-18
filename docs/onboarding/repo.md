@@ -10,10 +10,10 @@ This repository is organized to separate raw resources, documentation, and imple
 
 ## Documentation layout (`/docs`)
 
-- `/docs/onbaording/0_readme.md` - information about the project.
-- `/docs/onbaording/related_works.md` - related works.
-- `/docs/onbaording/repo.md` - this guide.
-- `/docs/onbaording/setup.md` - Goes over how to get your dev environment setup.
+- `/docs/onboarding/0_readme.md` - information about the project.
+- `/docs/onboarding/related_works.md` - related works.
+- `/docs/onboarding/repo.md` - this guide.
+- `/docs/onboarding/setup.md` - Goes over how to get your dev environment setup.
 - `/docs/segmentation/` - segmentation documentation.
 - `/docs/tracking/` - tracking documentation.
 - `/docs/deployment/` - deployment documentation.
