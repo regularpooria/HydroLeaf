@@ -26,7 +26,9 @@
         "ms-python.vscode-pylance",
         "KevinRose.vsc-python-indent",
         "actboy168.tasks",
-        "Percy.vscode-pydata-viewer"
+        "Percy.vscode-pydata-viewer",
+        "yzhang.dictionary-completion",
+        "streetsidesoftware.code-spell-checker"
       ],
       "settings": {
         "python.defaultInterpreterPath": "${containerWorkspaceFolder}/.venv/bin/python",
