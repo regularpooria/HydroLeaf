@@ -1,6 +1,6 @@
 # CanopyMap
 
-CanopyMap aims to build an ML pipeline for segmenting plant parts in indoor hydroponic systems and tracking them over time to measure growth.
+CanopyMap aims to build an ML pipeline for segmenting plant parts in indoor aeroponic systems and tracking them over time to measure growth.
 
 ## Where do I start?
 

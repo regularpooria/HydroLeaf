@@ -2,21 +2,31 @@
 
 Two of the biggest pain points for agricultural tech and a barrier to automation si measuring plant growth and obtaining quality training data at a large scale. Farming environments can vary _a lot_ and the hardware that is used to monitor such environments can often be in very different conditions which makes adapting a single model to different environments very challenging.
 
-Lots of research papers cover outdoor farming, very few try to fix the gap in training data for indoor environments. That's what we're trying to fix with CanopyMap. We have access to a Hydroponic farm with lots of cameras, we are going to use existing models to run image segmentation on the plants and using that try to measure the plant growth over time. This will eventually help the farm automate their growth optimization algorithm.
+Lots of research papers cover outdoor farming, very few try to fix the gap in training data for indoor environments. That's what we're trying to fix with CanopyMap. We have access to an aeroponic farm with lots of cameras, we are going to use existing models to run image segmentation on the plants and using that try to measure the plant growth over time. This will eventually help the farm automate their growth optimization algorithm.
 
-## What is a Hydroponic Farm?
+## What is a Aeroponic Farm?
 
-A Hydroponic farm often has no soil and is indoors, all of the nutrients for the plant come from the water and can be injected at different levels, there are a lot of factors that we could change in such farm such as oxygen, nutrients, acid in the water; humidity, grow light duration & intensity and watering duration. So many different possibilities and only one could work, so automating such farm is a big challenge.
+An aeroponic farm is a type of soilless farming system, often operated indoors, where plants are grown with their roots suspended in the air. Instead of soil, the roots receive water and nutrients through a carefully controlled mist or spray.
 
-INSERT IMAGES
+Many environmental and growth factors can be adjusted, including oxygen levels, nutrient concentration, water pH and acidity, humidity, grow-light duration and intensity, and watering frequency and duration. Each of these variables can affect plant growth, and finding the right combination can be complex.
+
+Because there are so many possible combinations of conditions, identifying the optimal growing environment can be challenging. Automating and intelligently controlling an aeroponic farm can therefore help maintain ideal conditions and improve plant growth and efficiency.
+
+|                                 Farm Overview                                  |                                                                         Plants                                                                         |
+| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="../assets/farm_overview.jpg" title="" alt="Description" width="400"> | <img src="../assets/roots.jpg" title="" alt="Description" width="264"> <img src="../assets/holder + roots.jpg" title="" alt="Description" width="148"> |
 
 ## bro who cares?
 
 I care 😝. Food is what holds the world together, so if we can optimize its growth with minimal resources, we can have more food :)... And of course... lots of money hehe.
 
+|              Easy to segment               |             Hard to segment              |
+| :----------------------------------------: | :--------------------------------------: |
+| ![Description](../assets/plants_small.jpg) | ![Description](../assets/plants_big.jpg) |
+
 ## Who is our advisor?
 
-Our supervisor is Dr. Christian Muise. He is a Computing professor that has built a hydroponic farm and has let us work on a small research project. This project is a building block for other projects to come. Dr. Muise will attend some of our meetings to guide us in our research.
+Our supervisor is Dr. Christian Muise. He is a Computing professor that has built a Aeroponic farm and has let us work on a small research project. This project is a building block for other projects to come. Dr. Muise will attend some of our meetings to guide us in our research.
 
 Here's the link to his lab: [mulab.ai](https://mulab.ai/)
 
