@@ -1,4 +1,4 @@
-# HydroLeaf repository map for coding agents
+# CanopyMap repository map for coding agents
 
 This file gives coding agents a fast path to the correct working area.
 

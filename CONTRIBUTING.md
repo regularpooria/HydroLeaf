@@ -1,4 +1,4 @@
-# Contributing to HydroLeaf
+# Contributing to CanopyMap
 
 ## Onboarding checklist
 
